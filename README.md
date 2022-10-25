@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Nadalyn-CZI.
-- 👀 I’m interested in creating documents in GitHub.
 - 🌱 I’m currently learning how to create documents in GitHub.
 - 💞️ I’m looking to collaborate on documenting architecture.  Please see issue https://github.com/napari/napari/issues/5098
 - 📫 I can be reached at nmiller@contractor.chanzuckerberg.com 
